@@ -15,7 +15,8 @@ https://blog.csdn.net/geidongdong/article/details/122561517
 ## Project 设置 首先进入项目后
 ```
 npm install
-或者npm
+或者
+cnpm install
 ```
 
 ### 运行
